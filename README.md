@@ -45,15 +45,5 @@ Tuned Parameters:
 
 3. Run the notebook or script
 
-## Project Structure
-```
-├── data/
-│   └── fashion-mnist_train.csv
-├── notebook/
-│   └── fashion_mnist.ipynb
-├── src/
-│   └── model_training.py
-├── README.md
-```
 ## Conclusion
 Random Forest provides a solid baseline for image classification. Hyperparameter tuning improves performance, though challenges remain in distinguishing similar classes.
